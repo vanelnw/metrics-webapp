@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
-import { BiRightArrowCircle, BiMicrophone } from 'react-icons/bi';
+import { BiMicrophone } from 'react-icons/bi';
 import { BsGearWide } from 'react-icons/bs';
 import { FiChevronLeft } from 'react-icons/fi';
 import { useNavigate } from 'react-router-dom';
@@ -30,7 +30,7 @@ const Details = () => {
         </div>
       </div>
       <div className="head">
-        <img src={country.image} alt="europe" />
+        <img src={country.image} alt="Africa" />
         <div className="infos">
           <p>{country.Country}</p>
           <strong>
@@ -52,7 +52,6 @@ const Details = () => {
                   {' '}
                   inhabitants
                 </strong>
-                <BiRightArrowCircle className="icon iconDetail" />
               </div>
             </div>
           ))}
