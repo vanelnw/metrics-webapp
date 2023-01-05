@@ -8,6 +8,10 @@
   font-family: 'Lato', sans-serif;
 }
 
+.loading {
+  color: black;
+}
+
 .home-container {
   background-color: #fa5091;
   overflow-x: hidden;
@@ -51,7 +55,7 @@
 .head img {
   width: 50%;
   height: 100%;
-  object-fit:unset;
+  object-fit: unset;
   filter: drop-shadow(2px 4px 6px black);
 }
 

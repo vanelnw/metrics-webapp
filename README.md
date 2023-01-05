@@ -89,8 +89,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](/)
-- [Live Video]()
+- [Live Demo](https://metrics-webapp.onrender.com/)
+- [Live Video](https://www.loom.com/share/f1c05f4bc4e34d2eb599c8bb2ce4446a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
